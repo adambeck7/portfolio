@@ -233,6 +233,14 @@ hr {
 	opacity: 1;
 }
 
+.hover2:active .image {
+	opacity: .1;
+}
+
+.hover2:active .middle {
+	opacity: 1;
+}
+
 .text {
 	/* background-color: #4CAF50; */
 	color: #428bca;
@@ -256,6 +264,14 @@ hr {
 }
 
 .hover3:hover .right {
+	opacity: 1;
+}
+
+.hover3:active .image {
+	opacity: .1;
+}
+
+.hover3:active .right {
 	opacity: 1;
 }
 
